@@ -3,11 +3,25 @@
 ### **A Frontend Developer with a KNACK for web development**
 - 👀 I’m interested in JavaScript and associated frameworks
 
-### **Socials**
-![This is a Twitter image](/twitter)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## **Socials**
+### 📫 How to reach me:<br>
+[![This is a Twitter image](/twitter.svg)](https://twitter.com/FadilDairo_)&nbsp; &nbsp;
+[![This is a LinkedIn image](/linkedin.png)](https://www.linkedin.com/in/fadil-dairo-656328140/)
+
+## **Tech Stack**
+
+### Languages
+![This is a HTML image](html.svg)&nbsp; &nbsp;
+![This is a CSS3 image](css3.svg)&nbsp; &nbsp;
+![This is a JavaScript image](javascript.svg)
+
+### Frameworks
+![This is a React image](react.svg)&nbsp; &nbsp;
+![This is a Tailwindcss image](tailwindcss.svg)
+
+### 🌱 I’m constantly learning new technologies to add to my stack ...
+
+
 
 
 <!---
