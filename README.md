@@ -1,6 +1,6 @@
 #  Hi there 👋, I’m Fadil Dairo
 
-### **A Frontend Developer with a KNACK for web development**
+### **A Frontend Developer**
 - 👀 I’m interested in JavaScript and associated frameworks
 
 ## **Socials**
