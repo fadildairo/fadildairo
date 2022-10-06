@@ -1,7 +1,7 @@
 #  Hi there 👋, I’m Fadil Dairo
 
-### **A Frontend Developer**
-- 👀 I LOVE JavaScript and associated frameworks
+### **A Frontend Engineer**
+- 👀 I LOVE solving real-world problems.
 
 ## **Socials**
 ### 📫 How to reach me:<br>
